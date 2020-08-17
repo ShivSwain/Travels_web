@@ -1,0 +1,45 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+}
+.container1
+{
+	border: 0px solid;
+}
+.image
+{
+	border: 0px solid;
+	width: 100%;
+}
+.policy-name
+{
+	border: 0px solid;
+	padding: 15px 15px;
+	font-size: 4vw;
+	color: #800000;
+	font-family: algerian;
+	background-image: url('../images/img2.jpg');
+	font-weight: bold;
+}
+.policy-name:hover
+{
+	color: white;
+}
+.policy-paragraph
+{
+	border: 0px solid;
+	text-align: justify;
+	padding: 5px 15px;
+	/*background-color: rgba(0,0,0,0.5);*/
+	font-family: Georgia, 'Times New Roman';
+	color: white;
+	background-image: url('../images/img2.jpg');
+	background-color: #F0FFFF;
+	margin: auto;
+}
+.policy-paragraph:hover
+{
+	background-color: #FFEBCD;
+}

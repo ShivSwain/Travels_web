@@ -1,0 +1,179 @@
+body
+{
+	background: url('../background1.jpg');
+	background-size: 100% 100%;
+	margin-top: -20px;
+}
+.container
+{
+	border: 2px solid;
+	border-top: hidden;
+	box-shadow: 5px 5px 5px rgba(1,42,84,0.8);
+	border-radius: 20px;
+}
+.container-fluid
+{
+	border: 0px solid;
+}
+.add-pkg-form
+{
+	border: 2px solid;
+	color: black;
+	background-color: #B0E0E6;
+	font-weight: bold;
+	font-size: 3em;
+	padding: 5px 6px;
+	font-family: Imprint MT Shadow;
+	font-style: italic;	
+	box-shadow: 5px 5px 5px rgba(1,42,84,0.8);
+	border-radius: 20px;
+}
+.add-pkg-form:hover
+{
+	background-color: #FFD700;
+}
+
+.package-form
+{
+	border: 0px solid;
+	margin: 25px 10px;
+}
+.pkg-nm
+{
+	border: 0px solid;
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+}
+.amt
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+   /* box-shadow: 5px 5px 5px rgba(1,42,84,0.8);*/
+}	
+
+.sourcefield
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+	/*box-shadow: 5px 5px 5px rgba(1,42,84,0.8);*/
+}
+#source-city
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 1px solid;
+	width: 100%;
+}
+.destfield
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+}
+#dest	
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 1px solid;
+	width: 100%;
+	/*box-shadow: 5px 5px 5px rgba(1,42,84,0.8);*/
+}
+
+.pkgtypefield
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+	/*box-shadow: 5px 5px 5px rgba(1,42,84,0.8);*/
+}
+#pkgtype
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 1px solid;
+	width: 100%;
+}
+.hoteltypefield
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+}
+#hoteltype
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 1px solid;
+	width: 100%;	
+}
+.traveltypefield
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 0px solid;
+}
+#traveltype
+{
+	font-size: 1em;
+	font-family: times new roman
+	font-weight: bold;
+	color: black;
+	padding: 4px 1px;
+	border: 1px solid;
+	width: 100%;
+	/*box-shadow: 5px 5px 5px rgba(1,42,84,0.8);*/
+}
+.add
+{
+	border: 1px solid;
+	color: black;
+	background-color: #B0E0E6;
+	font-weight: bold;
+	font-size: 2vw;
+	font-family: Imprint MT Shadow;
+	font-style: italic;	
+	box-shadow: 5px 5px 5px rgba(1,42,84,0.8);
+	margin: 20px 0px;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+.add:hover
+{
+	cursor: pointer;
+	background-color: #FFD700; 
+}*/

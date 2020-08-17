@@ -1,0 +1,80 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.row1
+{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+.image
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.heading
+{
+	font-family: forte;
+	font-size: 4vw;
+	color: blue;
+	margin-top: 0px;
+	box-shadow: 50px 5px 5px blue;
+	text-align: justify;
+	background-color: #FFD700;
+	border-bottom: 10px solid orangered;
+	border-radius: 40px;
+}
+.heading:hover
+{
+	background-color: red;
+}
+.contact-form
+{
+	border: 0px solid blue;
+	
+}
+.form-field
+{
+	border: 1px solid transparent;
+	font-family: forte;
+	font-size: 1.5vw;
+	margin-top: 5px;
+	color: white;
+	padding: 5px 5px;
+}
+input[type="text"], input[type="email"]
+{
+	border: 1px solid;
+	box-shadow: 15px 5px 5px skyblue;
+	color: black;
+	font-weight: bold;
+}
+.comment
+{
+	width: 100%;
+	height: 100%;
+	color: black;
+	font-weight: bold;
+	box-shadow: 15px 5px 5px skyblue;
+	/*padding: 20px 0px;*/
+}
+.button
+{
+	width:100%;
+	border: 0px solid;
+	margin-top: 5px;
+	font-size: 3vw;
+	font-family: forte;
+	color: white;
+	box-shadow: 10px 5px 5px rgba(0,0,0,0.5);
+	background-color: blue;
+	border-radius: 20px;
+}
+.button:hover
+{
+	background-color: #FFD700;
+	cursor: pointer;
+}

@@ -1,0 +1,66 @@
+body
+{
+	background-color: #00FF7F;
+}
+.admin_nm
+{
+	border: 6px solid black;
+	border-radius: 20px;
+	text-align: justify;
+	padding: 10px 0px;
+	padding-right: 20px;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 4vw;
+/*	margin-top: 10px;*/
+	background-color: #FFD700;
+	color: black;
+	font-family: Imprint MT Shadow;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+}
+.admin_nm:hover
+{
+	color: blue;
+}
+.forms
+{
+	border: 6px solid black;
+	border-radius: 20px;
+	text-align: justify;
+	padding: 10px 0px;
+	padding-right: 20px;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 4vw;
+	margin-top: 10px;
+	background-color: #FFD700;
+	color: black;
+	font-family: Imprint MT Shadow;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+}
+.forms:hover
+{
+	color: blue;
+}
+.form-link
+{
+	border: 6px solid black;
+	border-radius: 20px;
+	text-align: justify;
+	padding: 10px 10px;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 3vw;
+	margin-top: 30px;
+	background-color: #FFD700;
+	color: black;
+	height: 80%;
+	width: 80%;
+	text-align: justify;
+	font-family: harrington;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+}
+.form-link:hover
+{
+	background-color: black;
+}

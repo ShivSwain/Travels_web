@@ -1,0 +1,56 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.image
+{
+	border: 0px solid;
+	background-size: contain;
+	width:100%;	
+}
+.term-name
+{
+	background-image: url('../images/img2.jpg');
+	border: 0px solid;
+	padding: 15px 15px;
+	font-size: 3.5vw;
+	color: #800000;
+	font-family: algerian;
+	font-weight: bold;
+}
+.term-name:hover
+{
+	color: white;
+}
+.term-content
+{
+	border: 0px solid;
+	padding: 5px 15px;
+	font-size: 2.5vw;
+	text-align: justify;
+	font-family: times new roman;
+	font-weight: bold;
+	color: yellow;
+	background-image: url('../images/img2.jpg');
+}
+.term-content:hover
+{
+	color: black;
+}
+.termcondition-paragraph
+{
+	border: 0px solid;
+	text-align: justify;
+	padding: 5px 15px;
+	/*background-color: rgba(0,0,0,0.5);*/
+	font-family: Georgia, 'Times New Roman';
+	color: white;
+	background-color: #F0FFFF;
+	margin: auto;
+	background-image: url('../images/img2.jpg');
+}
+.termcondition-paragraph:hover
+{
+	background-color: #FFEBCD;
+}

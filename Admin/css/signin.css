@@ -1,0 +1,120 @@
+	.bg-img
+{
+	background: url('../images/background1.jpg');
+	background-size: 100% 100%;
+	margin-top: -20px;
+	width: 100%;
+}
+.container
+{
+	border: 0px solid;
+}
+.container-fluid
+{
+	border: 0px solid black;
+}
+.sign-in-form
+{
+	border: 5px solid;
+	margin: 0px 10px;
+	padding: 10px 15px;
+}
+.signin
+{
+	border: 5px solid;
+	color: black;
+	background-color: rgb(0,0,128,0.5)	
+	font-weight: bold;
+	font-size: 3em;
+	padding: 10px 10px;
+	background-color: #00FF7F;
+	font-family: Imprint MT Shadow;
+	font-style: italic;	
+	box-shadow: 5px 5px 5px rgb(0,191,255);
+	border-radius: 20px;
+}
+.signin:hover
+{
+	background-color: #FFD700;
+}
+.signup-box
+{
+	border: 1px solid red;
+}
+.btnsign
+{
+	border: 1px solid;
+	border-radius: 20px;
+	width: 100%;
+	padding: 10px 10px;
+}
+.btnsign
+{
+	cursor: pointer;
+}
+.userfield
+{
+	color: black;
+}
+.email
+{
+	color: black;
+}
+.pwd
+{
+	color: black;
+}
+.confirm-pwd
+{
+	color: black;
+}
+.address
+{
+	color: black;
+}
+.birthday
+{
+	color: black;
+}
+.city
+{
+	color: black;
+}
+.state
+{
+	color: black;
+}
+.pin-code
+{
+	color: black;
+}
+.contact-no
+{
+	color: black;
+}
+.input
+{
+	color: black;
+}
+.btnsign
+{
+	border: 2px solid;
+	color: black;
+	background-color: #00FF7F;
+	font-weight: bold;
+	font-size: 2em;
+	margin-top: 5px;
+	padding: 5px 2px;
+	font-family: Imprint MT Shadow;
+	font-style: italic;	
+	box-shadow: 5px 5px 5px rgba(1,42,84,0.8);
+	border-radius: 20px;
+}
+.btnsign:hover
+{
+	background-color: #FFD700;
+}
+
+
+
+

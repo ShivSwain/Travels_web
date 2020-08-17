@@ -1,0 +1,39 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	height: 1000px;
+}
+.image1
+{
+	width: auto;
+}
+.blog-name
+{
+	border: 1px solid transparent;
+	font-size: 40px;
+	color: black;
+	background-color: skyblue;
+	text-align: center;
+	margin: 0px;	
+}
+.blog-name:hover
+{
+	background-color: orange;
+}
+.image2
+{
+	background-image: url('../images/travel.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.blog-paragraph
+{
+	border: 1px solid ;
+	text-align: justify;
+	margin: auto;
+	padding: 10px 50px;
+	background-color: rgba(0,0,0,0.5);
+	font-family: Georgia, 'Times New Roman';
+	color: white;
+}
